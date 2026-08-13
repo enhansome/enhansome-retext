@@ -1,0 +1,467 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "unified",
+          "description": "Ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-29T11:25:24Z",
+            "owner": "unifiedjs",
+            "repo": "unified",
+            "stars": 5020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retext",
+          "description": "Repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-04T14:37:32Z",
+            "owner": "retextjs",
+            "repo": "retext",
+            "stars": 2435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retext-english",
+          "description": "English parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-04T14:37:32Z",
+            "owner": "retextjs",
+            "repo": "retext",
+            "stars": 2435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retext-latin",
+          "description": "Generic Latin-script parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-04T14:37:32Z",
+            "owner": "retextjs",
+            "repo": "retext",
+            "stars": 2435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retext-stringify",
+          "description": "Prose generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-04T14:37:32Z",
+            "owner": "retextjs",
+            "repo": "retext",
+            "stars": 2435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nlcst",
+          "description": "Concrete syntax tree specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-04T12:49:57Z",
+            "owner": "syntax-tree",
+            "repo": "nlcst",
+            "stars": 233
+          }
+        }
+      ],
+      "title": "Official"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "retext-keywords",
+          "description": "Extract keywords and keyphrases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-23T15:15:36Z",
+            "owner": "retextjs",
+            "repo": "retext-keywords",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retext-equality",
+          "description": "Warn about possible insensitive, inconsiderate language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-30T17:35:04Z",
+            "owner": "retextjs",
+            "repo": "retext-equality",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retext-readability",
+          "description": "Check readability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-11T09:41:17Z",
+            "owner": "retextjs",
+            "repo": "retext-readability",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retext-simplify",
+          "description": "Check phrases for simpler alternatives.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-10T10:52:19Z",
+            "owner": "retextjs",
+            "repo": "retext-simplify",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retext-spell",
+          "description": "Check spelling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-05T09:42:31Z",
+            "owner": "retextjs",
+            "repo": "retext-spell",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remark-retext",
+          "description": "Integrate with the remark ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-02T12:38:33Z",
+            "owner": "remarkjs",
+            "repo": "remark-retext",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rehype-retext",
+          "description": "Integrate with the rehype ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-02T14:00:57Z",
+            "owner": "rehypejs",
+            "repo": "rehype-retext",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retext-indefinite-article",
+          "description": "Check if indefinite articles (, ) are used correctly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-11T10:43:31Z",
+            "owner": "retextjs",
+            "repo": "retext-indefinite-article",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retext-passive",
+          "description": "Check for passive voice.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-08T10:46:23Z",
+            "owner": "retextjs",
+            "repo": "retext-passive",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retext-repeated-words",
+          "description": "Check repeated words.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-10T15:48:43Z",
+            "owner": "retextjs",
+            "repo": "retext-repeated-words",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gatsby",
+          "description": "Blazing fast, modern apps and websites with React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T05:12:32Z",
+            "owner": "gatsbyjs",
+            "repo": "gatsby",
+            "stars": 55941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alex",
+          "description": "Catch insensitive, inconsiderate writing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-27T17:45:46Z",
+            "owner": "get-alex",
+            "repo": "alex",
+            "stars": 5097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gatsby-mdx",
+          "description": "Gatsby + MDX.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-11-02T22:14:54Z",
+            "owner": "ChristopherBiscardi",
+            "repo": "gatsby-mdx",
+            "stars": 713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retext-mapbox-standard",
+          "description": "Enforce Mapbox rules about language.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-06-15T19:37:08Z",
+            "owner": "mapbox",
+            "repo": "retext-mapbox-standard",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retext-shopify",
+          "description": "Enforce Shopify rules about language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-22T07:04:16Z",
+            "owner": "Shopify",
+            "repo": "retext-shopify",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Built on retext"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "opensource.guide",
+          "description": "Community guides for open source creators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-05T04:13:41Z",
+            "owner": "github",
+            "repo": "opensource.guide",
+            "stars": 15620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "debugger.html",
+          "description": "Mozilla Firefox debugger.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2023-01-11T19:07:25Z",
+            "owner": "firefox-devtools",
+            "repo": "debugger",
+            "stars": 4608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "write-music",
+          "description": "Visualize sentence length.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-24T13:02:29Z",
+            "owner": "wooorm",
+            "repo": "write-music",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "readability",
+          "description": "Visualize readability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-25T08:51:01Z",
+            "owner": "wooorm",
+            "repo": "readability",
+            "stars": 214
+          }
+        }
+      ],
+      "title": "Built with retext"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome remark",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-03T09:29:49Z",
+            "owner": "remarkjs",
+            "repo": "awesome-remark",
+            "stars": 493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome mdx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-07T09:14:59Z",
+            "owner": "mdx-js",
+            "repo": "awesome",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome rehype",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-10T13:25:24Z",
+            "owner": "rehypejs",
+            "repo": "awesome-rehype",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome unified",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-03T13:10:06Z",
+            "owner": "unifiedjs",
+            "repo": "awesome-unified",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome syntax-tree",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-04T11:55:23Z",
+            "owner": "syntax-tree",
+            "repo": "awesome-syntax-tree",
+            "stars": 125
+          }
+        }
+      ],
+      "title": "Related lists"
+    },
+    {
+      "description": "© Titus Wormer",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:11:49.154Z",
+    "original_repository": "retextjs/awesome-retext",
+    "original_repository_sha": "2395c0f624334b588613f93cef83bd7a9581dac6",
+    "enhanced_repository": "enhansome/enhansome-retext",
+    "enhanced_repository_description": null,
+    "title": "awesome retext with stars"
+  }
+}
