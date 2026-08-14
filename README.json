@@ -14,7 +14,7 @@
             "last_commit": "2026-04-29T11:25:24Z",
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5020
+            "stars": 5021
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-08-12T05:12:32Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941
+            "stars": 55944
           }
         },
         {
@@ -323,10 +323,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-05T04:13:41Z",
+            "last_commit": "2026-08-13T18:13:49Z",
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15621
+            "stars": 15622
           }
         },
         {
@@ -340,7 +340,7 @@
             "last_commit": "2023-01-11T19:07:25Z",
             "owner": "firefox-devtools",
             "repo": "debugger",
-            "stars": 4608
+            "stars": 4607
           }
         },
         {
@@ -457,7 +457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:51:18.784Z",
+    "last_updated": "2026-08-14T12:44:49.750Z",
     "original_repository": "retextjs/awesome-retext",
     "original_repository_sha": "2395c0f624334b588613f93cef83bd7a9581dac6",
     "enhanced_repository": "enhansome/enhansome-retext",
