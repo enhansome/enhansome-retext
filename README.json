@@ -250,7 +250,7 @@
             "last_commit": "2026-08-15T00:01:50Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55943
+            "stars": 55944
           }
         },
         {
@@ -326,7 +326,7 @@
             "last_commit": "2026-08-13T18:13:49Z",
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15628
+            "stars": 15632
           }
         },
         {
@@ -457,7 +457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T12:21:50.019Z",
+    "last_updated": "2026-08-17T12:26:36.305Z",
     "original_repository": "retextjs/awesome-retext",
     "original_repository_sha": "2395c0f624334b588613f93cef83bd7a9581dac6",
     "enhanced_repository": "enhansome/enhansome-retext",
