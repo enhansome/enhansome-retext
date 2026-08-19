@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39996248,
             "language": "JavaScript",
             "last_commit": "2026-04-29T11:25:24Z",
             "owner": "unifiedjs",
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20461647,
             "language": "JavaScript",
             "last_commit": "2025-02-04T14:37:32Z",
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2435
+            "stars": 2434
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20461647,
             "language": "JavaScript",
             "last_commit": "2025-02-04T14:37:32Z",
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2435
+            "stars": 2434
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20461647,
             "language": "JavaScript",
             "last_commit": "2025-02-04T14:37:32Z",
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2435
+            "stars": 2434
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20461647,
             "language": "JavaScript",
             "last_commit": "2025-02-04T14:37:32Z",
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2435
+            "stars": 2434
           }
         },
         {
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24880547,
             "language": null,
             "last_commit": "2024-10-04T12:49:57Z",
             "owner": "syntax-tree",
@@ -91,7 +97,7 @@
       "title": "Official"
     },
     {
-      "description": "",
+      "description": "Find more plugins »",
       "items": [
         {
           "node_type": "item",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21904210,
             "language": "JavaScript",
             "last_commit": "2024-10-23T15:15:36Z",
             "owner": "retextjs",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40501802,
             "language": "JavaScript",
             "last_commit": "2024-05-30T17:35:04Z",
             "owner": "retextjs",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49443610,
             "language": "JavaScript",
             "last_commit": "2023-09-11T09:41:17Z",
             "owner": "retextjs",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49679355,
             "language": "JavaScript",
             "last_commit": "2023-09-10T10:52:19Z",
             "owner": "retextjs",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42998490,
             "language": "JavaScript",
             "last_commit": "2024-02-05T09:42:31Z",
             "owner": "retextjs",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49385978,
             "language": "JavaScript",
             "last_commit": "2025-04-02T12:38:33Z",
             "owner": "remarkjs",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69400025,
             "language": "JavaScript",
             "last_commit": "2025-04-02T14:00:57Z",
             "owner": "rehypejs",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66196043,
             "language": "JavaScript",
             "last_commit": "2023-09-11T10:43:31Z",
             "owner": "retextjs",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68696741,
             "language": "JavaScript",
             "last_commit": "2023-09-08T10:46:23Z",
             "owner": "retextjs",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66092249,
             "language": "JavaScript",
             "last_commit": "2023-09-10T15:48:43Z",
             "owner": "retextjs",
@@ -237,7 +253,7 @@
       "title": "Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -246,11 +262,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T00:01:50Z",
+            "last_commit": "2026-08-19T11:32:21Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55943
+            "stars": 55944
           }
         },
         {
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40781628,
             "language": "JavaScript",
             "last_commit": "2024-11-27T17:45:46Z",
             "owner": "get-alex",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 141506133,
             "language": "JavaScript",
             "last_commit": "2019-11-02T22:14:54Z",
             "owner": "ChristopherBiscardi",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 49605509,
             "language": "JavaScript",
             "last_commit": "2020-06-15T19:37:08Z",
             "owner": "mapbox",
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53092335,
             "language": "JavaScript",
             "last_commit": "2023-03-22T07:04:16Z",
             "owner": "Shopify",
@@ -313,7 +334,7 @@
       "title": "Built on retext"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -322,11 +343,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61204818,
             "language": "HTML",
             "last_commit": "2026-08-13T18:13:49Z",
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15637
+            "stars": 15639
           }
         },
         {
@@ -336,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 54585418,
             "language": null,
             "last_commit": "2023-01-11T19:07:25Z",
             "owner": "firefox-devtools",
@@ -350,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75829353,
             "language": "JavaScript",
             "last_commit": "2024-10-24T13:02:29Z",
             "owner": "wooorm",
@@ -364,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88995187,
             "language": "JavaScript",
             "last_commit": "2024-10-25T08:51:01Z",
             "owner": "wooorm",
@@ -375,7 +400,7 @@
       "title": "Built with retext"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -384,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156001210,
             "language": null,
             "last_commit": "2024-10-03T09:29:49Z",
             "owner": "remarkjs",
@@ -398,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143893040,
             "language": null,
             "last_commit": "2024-10-07T09:14:59Z",
             "owner": "mdx-js",
@@ -412,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156001375,
             "language": null,
             "last_commit": "2024-10-10T13:25:24Z",
             "owner": "rehypejs",
@@ -426,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156001590,
             "language": null,
             "last_commit": "2024-10-03T13:10:06Z",
             "owner": "unifiedjs",
@@ -440,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188994543,
             "language": null,
             "last_commit": "2024-10-04T11:55:23Z",
             "owner": "syntax-tree",
@@ -449,16 +479,12 @@
         }
       ],
       "title": "Related lists"
-    },
-    {
-      "description": "© Titus Wormer",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T12:28:22.882Z",
+    "last_updated": "2026-08-19T12:48:47.461Z",
     "original_repository": "retextjs/awesome-retext",
+    "original_repository_id": 156001493,
     "original_repository_sha": "2395c0f624334b588613f93cef83bd7a9581dac6",
     "enhanced_repository": "enhansome/enhansome-retext",
     "enhanced_repository_description": null,
