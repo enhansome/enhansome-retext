@@ -45,7 +45,7 @@ part of the [unified][] collective.
 
 ## Built on retext
 
-* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,943 | 🐛 421 | 🌐 JavaScript | 📅 2026-08-20 - Blazing fast, modern apps and websites with React.
+* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,941 | 🐛 423 | 🌐 JavaScript | 📅 2026-08-20 - Blazing fast, modern apps and websites with React.
 * [Alex](https://github.com/get-alex/alex) ⭐ 5,099 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - Catch insensitive, inconsiderate writing.
 * [gatsby-mdx](https://github.com/ChristopherBiscardi/gatsby-mdx) ⚠️ Archived - Gatsby + MDX.
 * [retext-mapbox-standard](https://github.com/mapbox/retext-mapbox-standard) ⚠️ Archived - Enforce Mapbox rules about language.
@@ -53,7 +53,7 @@ part of the [unified][] collective.
 
 ## Built with retext
 
-* [opensource.guide](https://github.com/github/opensource.guide) ⭐ 15,640 | 🐛 10 | 🌐 HTML | 📅 2026-08-13 - Community guides for open source creators.
+* [opensource.guide](https://github.com/github/opensource.guide) ⭐ 15,640 | 🐛 3 | 🌐 HTML | 📅 2026-08-13 - Community guides for open source creators.
 * [debugger.html](https://github.com/devtools-html/debugger.html) ⚠️ Archived - [Mozilla](https://www.mozilla.org) Firefox debugger.
 * [write-music](https://github.com/wooorm/write-music) ⭐ 253 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-24 - Visualize sentence length.
 * [readability](https://github.com/wooorm/readability) ⭐ 214 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-25 - Visualize readability.
@@ -92,4 +92,4 @@ part of the [unified][] collective.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

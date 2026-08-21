@@ -264,10 +264,10 @@
             "archived": false,
             "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T11:54:12Z",
+            "last_commit": "2026-08-20T20:50:14Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55943
+            "stars": 55941
           }
         },
         {
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T12:30:35.155Z",
+    "last_updated": "2026-08-21T12:29:24.771Z",
     "original_repository": "retextjs/awesome-retext",
     "original_repository_id": 156001493,
     "original_repository_sha": "2395c0f624334b588613f93cef83bd7a9581dac6",
