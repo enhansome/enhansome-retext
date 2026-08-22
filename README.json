@@ -264,10 +264,10 @@
             "archived": false,
             "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T20:50:14Z",
+            "last_commit": "2026-08-21T19:12:38Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941
+            "stars": 55940
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2024-11-27T17:45:46Z",
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5099
+            "stars": 5100
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-08-13T18:13:49Z",
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15640
+            "stars": 15642
           }
         },
         {
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T12:29:24.771Z",
+    "last_updated": "2026-08-22T12:21:40.739Z",
     "original_repository": "retextjs/awesome-retext",
     "original_repository_id": 156001493,
     "original_repository_sha": "2395c0f624334b588613f93cef83bd7a9581dac6",
