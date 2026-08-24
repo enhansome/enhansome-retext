@@ -97,7 +97,7 @@
       "title": "Official"
     },
     {
-      "description": "Find more plugins »",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -248,6 +248,21 @@
             "repo": "retext-repeated-words",
             "stars": 15
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Find more plugins »",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20461647,
+            "language": "JavaScript",
+            "last_commit": "2025-02-04T14:37:32Z",
+            "owner": "retextjs",
+            "repo": "retext",
+            "stars": 2434
+          }
         }
       ],
       "title": "Plugins"
@@ -267,7 +282,7 @@
             "last_commit": "2026-08-21T19:12:38Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55939
+            "stars": 55941
           }
         },
         {
@@ -482,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:30:59.299Z",
+    "last_updated": "2026-08-24T14:37:25.265Z",
     "original_repository": "retextjs/awesome-retext",
     "original_repository_id": 156001493,
     "original_repository_sha": "2395c0f624334b588613f93cef83bd7a9581dac6",
