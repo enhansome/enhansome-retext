@@ -30,7 +30,7 @@
             "last_commit": "2025-02-04T14:37:32Z",
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2434
+            "stars": 2436
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-02-04T14:37:32Z",
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2434
+            "stars": 2436
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-02-04T14:37:32Z",
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2434
+            "stars": 2436
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2025-02-04T14:37:32Z",
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2434
+            "stars": 2436
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2025-02-04T14:37:32Z",
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2434
+            "stars": 2436
           }
         }
       ],
@@ -282,7 +282,7 @@
             "last_commit": "2026-08-21T19:12:38Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55943
+            "stars": 55941
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2024-11-27T17:45:46Z",
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5100
+            "stars": 5099
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2026-08-13T18:13:49Z",
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15644
+            "stars": 15645
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2024-10-10T13:25:24Z",
             "owner": "rehypejs",
             "repo": "awesome-rehype",
-            "stars": 237
+            "stars": 238
           }
         },
         {
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T12:31:20.222Z",
+    "last_updated": "2026-08-26T12:34:54.618Z",
     "original_repository": "retextjs/awesome-retext",
     "original_repository_id": 156001493,
     "original_repository_sha": "2395c0f624334b588613f93cef83bd7a9581dac6",
