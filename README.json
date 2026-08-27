@@ -279,10 +279,10 @@
             "archived": false,
             "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T19:12:38Z",
+            "last_commit": "2026-08-27T10:47:01Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941
+            "stars": 55942
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2024-11-27T17:45:46Z",
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5099
+            "stars": 5100
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2026-08-13T18:13:49Z",
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15645
+            "stars": 15649
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2024-10-10T13:25:24Z",
             "owner": "rehypejs",
             "repo": "awesome-rehype",
-            "stars": 238
+            "stars": 239
           }
         },
         {
@@ -497,9 +497,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T12:34:54.618Z",
-    "original_repository": "retextjs/awesome-retext",
-    "original_repository_id": 156001493,
+    "last_updated": "2026-08-27T12:02:20.947Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 156001493,
+      "language": null,
+      "last_commit": "2024-10-03T10:11:01Z",
+      "owner": "retextjs",
+      "repo": "awesome-retext",
+      "stars": 132
+    },
     "original_repository_sha": "2395c0f624334b588613f93cef83bd7a9581dac6",
     "enhanced_repository": "enhansome/enhansome-retext",
     "enhanced_repository_description": null,
