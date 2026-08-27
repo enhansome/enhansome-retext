@@ -279,10 +279,10 @@
             "archived": false,
             "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T10:47:01Z",
+            "last_commit": "2026-08-27T16:59:39Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55942
+            "stars": 55941
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2026-08-13T18:13:49Z",
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15649
+            "stars": 15650
           }
         },
         {
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:02:20.947Z",
+    "last_updated": "2026-08-27T21:29:30.919Z",
     "original_repository_info": {
       "archived": false,
       "id": 156001493,
