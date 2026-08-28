@@ -15,8 +15,9 @@
             "last_commit": "2026-04-29T11:25:24Z",
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5023
-          }
+            "stars": 5024
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "retextjs",
             "repo": "retext",
             "stars": 2436
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "retextjs",
             "repo": "retext",
             "stars": 2436
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "retextjs",
             "repo": "retext",
             "stars": 2436
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "retextjs",
             "repo": "retext",
             "stars": 2436
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "syntax-tree",
             "repo": "nlcst",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         }
       ],
       "title": "Official"
@@ -112,7 +118,8 @@
             "owner": "retextjs",
             "repo": "retext-keywords",
             "stars": 340
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "retextjs",
             "repo": "retext-equality",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "retextjs",
             "repo": "retext-readability",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "retextjs",
             "repo": "retext-simplify",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "retextjs",
             "repo": "retext-spell",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "remarkjs",
             "repo": "remark-retext",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "rehypejs",
             "repo": "rehype-retext",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "retextjs",
             "repo": "retext-indefinite-article",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "retextjs",
             "repo": "retext-passive",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "retextjs",
             "repo": "retext-repeated-words",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "retextjs",
             "repo": "retext",
             "stars": 2436
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         }
       ],
       "title": "Plugins"
@@ -279,11 +296,12 @@
             "archived": false,
             "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T16:59:39Z",
+            "last_commit": "2026-08-28T03:41:15Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
             "stars": 55941
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "get-alex",
             "repo": "alex",
             "stars": 5100
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "ChristopherBiscardi",
             "repo": "gatsby-mdx",
             "stars": 713
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "mapbox",
             "repo": "retext-mapbox-standard",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "Shopify",
             "repo": "retext-shopify",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         }
       ],
       "title": "Built on retext"
@@ -363,8 +385,9 @@
             "last_commit": "2026-08-13T18:13:49Z",
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15650
-          }
+            "stars": 15651
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "firefox-devtools",
             "repo": "debugger",
             "stars": 4608
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "wooorm",
             "repo": "write-music",
             "stars": 253
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "wooorm",
             "repo": "readability",
             "stars": 214
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         }
       ],
       "title": "Built with retext"
@@ -429,8 +455,9 @@
             "last_commit": "2024-10-03T09:29:49Z",
             "owner": "remarkjs",
             "repo": "awesome-remark",
-            "stars": 493
-          }
+            "stars": 494
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -445,7 +472,8 @@
             "owner": "mdx-js",
             "repo": "awesome",
             "stars": 334
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -460,7 +488,8 @@
             "owner": "rehypejs",
             "repo": "awesome-rehype",
             "stars": 239
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -475,7 +504,8 @@
             "owner": "unifiedjs",
             "repo": "awesome-unified",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         },
         {
           "node_type": "item",
@@ -490,14 +520,15 @@
             "owner": "syntax-tree",
             "repo": "awesome-syntax-tree",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T21:36:36.268Z"
         }
       ],
       "title": "Related lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:29:30.919Z",
+    "last_updated": "2026-08-28T21:36:36.268Z",
     "original_repository_info": {
       "archived": false,
       "id": 156001493,
