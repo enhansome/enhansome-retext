@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5024,
+            "stars": 5025,
             "topics": [
               "ast",
               "cst",
@@ -194,7 +194,7 @@
             "open_issues": 0,
             "owner": "retextjs",
             "repo": "retext-keywords",
-            "stars": 340,
+            "stars": 339,
             "topics": [
               "keyword",
               "keyword-extraction",
@@ -509,7 +509,7 @@
             "open_issues": 437,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55943,
+            "stars": 55944,
             "topics": [
               "blog",
               "compiler",
@@ -635,7 +635,7 @@
             "open_issues": 6,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15653,
+            "stars": 15654,
             "topics": [
               "best-practices",
               "documentation",
@@ -758,7 +758,7 @@
             "open_issues": 2,
             "owner": "remarkjs",
             "repo": "awesome-remark",
-            "stars": 494,
+            "stars": 495,
             "topics": [
               "awesome",
               "awesome-list",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:58:33.337Z",
+    "last_updated": "2026-08-30T15:46:53.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",
