@@ -161,7 +161,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "nlcst",
-            "stars": 233,
+            "stars": 234,
             "topics": [
               "ast",
               "cst",
@@ -505,11 +505,11 @@
             "id": 36040894,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T10:57:44Z",
-            "open_issues": 441,
+            "last_commit": "2026-09-04T03:44:46Z",
+            "open_issues": 442,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55940,
+            "stars": 55938,
             "topics": [
               "blog",
               "compiler",
@@ -631,11 +631,11 @@
             "id": 61204818,
             "language": "HTML",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-08-13T18:13:49Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-04T04:15:29Z",
+            "open_issues": 10,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15664,
+            "stars": 15666,
             "topics": [
               "best-practices",
               "documentation",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T15:32:33.607Z",
+    "last_updated": "2026-09-04T15:30:41.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",
