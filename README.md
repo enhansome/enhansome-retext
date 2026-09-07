@@ -21,7 +21,7 @@ part of the [unified][] collective.
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,030 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,029 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
 * [retext](https://github.com/retextjs/retext) ⭐ 2,436 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Repository.
 * [retext-english](https://github.com/retextjs/retext/tree/HEAD/packages/retext-english) ⭐ 2,436 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - English parser.
 * [retext-latin](https://github.com/retextjs/retext/tree/HEAD/packages/retext-latin) ⭐ 2,436 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Generic Latin-script parser.
@@ -31,7 +31,7 @@ part of the [unified][] collective.
 ## Plugins
 
 * [retext-keywords](https://github.com/retextjs/retext-keywords) ⭐ 339 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-23 - Extract keywords and keyphrases.
-* [retext-equality](https://github.com/retextjs/retext-equality) ⭐ 162 | 🐛 2 | 🌐 JavaScript | 📅 2024-05-30 - Warn about possible insensitive, inconsiderate language.
+* [retext-equality](https://github.com/retextjs/retext-equality) ⭐ 163 | 🐛 2 | 🌐 JavaScript | 📅 2024-05-30 - Warn about possible insensitive, inconsiderate language.
 * [retext-readability](https://github.com/retextjs/retext-readability) ⭐ 101 | 🐛 0 | 🌐 JavaScript | 📅 2023-09-11 - Check readability.
 * [retext-simplify](https://github.com/retextjs/retext-simplify) ⭐ 98 | 🐛 0 | 🌐 JavaScript | 📅 2023-09-10 - Check phrases for simpler alternatives.
 * [retext-spell](https://github.com/retextjs/retext-spell) ⭐ 75 | 🐛 0 | 🌐 JavaScript | 📅 2024-02-05 - Check spelling.
@@ -45,7 +45,7 @@ part of the [unified][] collective.
 
 ## Built on retext
 
-* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,939 | 🐛 443 | 🌐 JavaScript | 📅 2026-09-04 - Blazing fast, modern apps and websites with React.
+* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,940 | 🐛 443 | 🌐 JavaScript | 📅 2026-09-04 - Blazing fast, modern apps and websites with React.
 * [Alex](https://github.com/get-alex/alex) ⭐ 5,098 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - Catch insensitive, inconsiderate writing.
 * [gatsby-mdx](https://github.com/ChristopherBiscardi/gatsby-mdx) ⚠️ Archived - Gatsby + MDX.
 * [retext-mapbox-standard](https://github.com/mapbox/retext-mapbox-standard) ⚠️ Archived - Enforce Mapbox rules about language.
@@ -53,7 +53,7 @@ part of the [unified][] collective.
 
 ## Built with retext
 
-* [opensource.guide](https://github.com/github/opensource.guide) ⭐ 15,668 | 🐛 3 | 🌐 HTML | 📅 2026-09-04 - Community guides for open source creators.
+* [opensource.guide](https://github.com/github/opensource.guide) ⭐ 15,671 | 🐛 3 | 🌐 HTML | 📅 2026-09-04 - Community guides for open source creators.
 * [debugger.html](https://github.com/devtools-html/debugger.html) ⚠️ Archived - [Mozilla](https://www.mozilla.org) Firefox debugger.
 * [write-music](https://github.com/wooorm/write-music) ⭐ 253 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-24 - Visualize sentence length.
 * [readability](https://github.com/wooorm/readability) ⭐ 214 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-25 - Visualize readability.
@@ -92,4 +92,4 @@ part of the [unified][] collective.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

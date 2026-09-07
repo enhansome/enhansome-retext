@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5030,
+            "stars": 5029,
             "topics": [
               "ast",
               "cst",
@@ -223,7 +223,7 @@
             "open_issues": 2,
             "owner": "retextjs",
             "repo": "retext-equality",
-            "stars": 162,
+            "stars": 163,
             "topics": [
               "equality",
               "inclusivity",
@@ -509,7 +509,7 @@
             "open_issues": 443,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55939,
+            "stars": 55940,
             "topics": [
               "blog",
               "compiler",
@@ -635,7 +635,7 @@
             "open_issues": 3,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15668,
+            "stars": 15671,
             "topics": [
               "best-practices",
               "documentation",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T14:41:19.626Z",
+    "last_updated": "2026-09-07T16:56:21.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",
