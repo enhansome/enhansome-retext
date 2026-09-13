@@ -505,7 +505,7 @@
             "id": 36040894,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T21:09:45Z",
+            "last_commit": "2026-09-13T14:00:19Z",
             "open_issues": 453,
             "owner": "gatsbyjs",
             "repo": "gatsby",
@@ -538,7 +538,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5098,
+            "stars": 5099,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -635,7 +635,7 @@
             "open_issues": 4,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15675,
+            "stars": 15677,
             "topics": [
               "best-practices",
               "documentation",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T14:42:40.302Z",
+    "last_updated": "2026-09-13T15:22:21.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",
