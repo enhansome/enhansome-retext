@@ -506,10 +506,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-25T11:13:07Z",
-            "open_issues": 449,
+            "open_issues": 451,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55944,
+            "stars": 55942,
             "topics": [
               "blog",
               "compiler",
@@ -631,11 +631,11 @@
             "id": 61204818,
             "language": "HTML",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-17T04:15:01Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-26T06:00:23Z",
+            "open_issues": 11,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15704,
+            "stars": 15706,
             "topics": [
               "best-practices",
               "documentation",
@@ -813,7 +813,7 @@
             "open_issues": 0,
             "owner": "rehypejs",
             "repo": "awesome-rehype",
-            "stars": 239,
+            "stars": 240,
             "topics": [
               "awesome",
               "awesome-list",
@@ -839,7 +839,7 @@
             "open_issues": 0,
             "owner": "unifiedjs",
             "repo": "awesome-unified",
-            "stars": 148,
+            "stars": 149,
             "topics": [
               "awesome",
               "awesome-list",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T16:13:23.440Z",
+    "last_updated": "2026-09-26T15:26:43.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",

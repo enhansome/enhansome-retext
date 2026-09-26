@@ -45,7 +45,7 @@ part of the [unified][] collective.
 
 ## Built on retext
 
-* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,944 | 🐛 449 | 🌐 JavaScript | 📅 2026-09-25 - Blazing fast, modern apps and websites with React.
+* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,942 | 🐛 451 | 🌐 JavaScript | 📅 2026-09-25 - Blazing fast, modern apps and websites with React.
 * [Alex](https://github.com/get-alex/alex) ⭐ 5,103 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - Catch insensitive, inconsiderate writing.
 * [gatsby-mdx](https://github.com/ChristopherBiscardi/gatsby-mdx) ⚠️ Archived - Gatsby + MDX.
 * [retext-mapbox-standard](https://github.com/mapbox/retext-mapbox-standard) ⚠️ Archived - Enforce Mapbox rules about language.
@@ -53,7 +53,7 @@ part of the [unified][] collective.
 
 ## Built with retext
 
-* [opensource.guide](https://github.com/github/opensource.guide) ⭐ 15,704 | 🐛 10 | 🌐 HTML | 📅 2026-09-17 - Community guides for open source creators.
+* [opensource.guide](https://github.com/github/opensource.guide) ⭐ 15,706 | 🐛 11 | 🌐 HTML | 📅 2026-09-26 - Community guides for open source creators.
 * [debugger.html](https://github.com/devtools-html/debugger.html) ⚠️ Archived - [Mozilla](https://www.mozilla.org) Firefox debugger.
 * [write-music](https://github.com/wooorm/write-music) ⭐ 253 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-24 - Visualize sentence length.
 * [readability](https://github.com/wooorm/readability) ⭐ 214 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-25 - Visualize readability.
@@ -62,8 +62,8 @@ part of the [unified][] collective.
 
 * [awesome remark](https://github.com/remarkjs/awesome-remark) ⭐ 498 | 🐛 2 | 📅 2024-10-03
 * [awesome mdx](https://github.com/transitive-bullshit/awesome-mdx) ⭐ 336 | 🐛 0 | 📅 2024-10-07
-* [awesome rehype](https://github.com/rehypejs/awesome-rehype) ⭐ 239 | 🐛 0 | 📅 2024-10-10
-* [awesome unified](https://github.com/unifiedjs/awesome-unified) ⭐ 148 | 🐛 0 | 📅 2024-10-03
+* [awesome rehype](https://github.com/rehypejs/awesome-rehype) ⭐ 240 | 🐛 0 | 📅 2024-10-10
+* [awesome unified](https://github.com/unifiedjs/awesome-unified) ⭐ 149 | 🐛 0 | 📅 2024-10-03
 * [awesome syntax-tree](https://github.com/syntax-tree/awesome-syntax-tree) ⭐ 125 | 🐛 0 | 📅 2024-10-04
 
 ## License
@@ -92,4 +92,4 @@ part of the [unified][] collective.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
