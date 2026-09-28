@@ -21,7 +21,7 @@ part of the [unified][] collective.
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,036 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,037 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
 * [retext](https://github.com/retextjs/retext) ⭐ 2,435 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Repository.
 * [retext-english](https://github.com/retextjs/retext/tree/HEAD/packages/retext-english) ⭐ 2,435 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - English parser.
 * [retext-latin](https://github.com/retextjs/retext/tree/HEAD/packages/retext-latin) ⭐ 2,435 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Generic Latin-script parser.
@@ -30,7 +30,7 @@ part of the [unified][] collective.
 
 ## Plugins
 
-* [retext-keywords](https://github.com/retextjs/retext-keywords) ⭐ 339 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-23 - Extract keywords and keyphrases.
+* [retext-keywords](https://github.com/retextjs/retext-keywords) ⭐ 340 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-23 - Extract keywords and keyphrases.
 * [retext-equality](https://github.com/retextjs/retext-equality) ⭐ 163 | 🐛 2 | 🌐 JavaScript | 📅 2024-05-30 - Warn about possible insensitive, inconsiderate language.
 * [retext-readability](https://github.com/retextjs/retext-readability) ⭐ 101 | 🐛 0 | 🌐 JavaScript | 📅 2023-09-11 - Check readability.
 * [retext-simplify](https://github.com/retextjs/retext-simplify) ⭐ 98 | 🐛 0 | 🌐 JavaScript | 📅 2023-09-10 - Check phrases for simpler alternatives.
@@ -60,7 +60,7 @@ part of the [unified][] collective.
 
 ## Related lists
 
-* [awesome remark](https://github.com/remarkjs/awesome-remark) ⭐ 498 | 🐛 2 | 📅 2024-10-03
+* [awesome remark](https://github.com/remarkjs/awesome-remark) ⭐ 499 | 🐛 2 | 📅 2024-10-03
 * [awesome mdx](https://github.com/transitive-bullshit/awesome-mdx) ⭐ 336 | 🐛 0 | 📅 2024-10-07
 * [awesome rehype](https://github.com/rehypejs/awesome-rehype) ⭐ 240 | 🐛 0 | 📅 2024-10-10
 * [awesome unified](https://github.com/unifiedjs/awesome-unified) ⭐ 149 | 🐛 0 | 📅 2024-10-03
@@ -92,4 +92,4 @@ part of the [unified][] collective.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._

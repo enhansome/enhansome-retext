@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5036,
+            "stars": 5037,
             "topics": [
               "ast",
               "cst",
@@ -194,7 +194,7 @@
             "open_issues": 0,
             "owner": "retextjs",
             "repo": "retext-keywords",
-            "stars": 339,
+            "stars": 340,
             "topics": [
               "keyword",
               "keyword-extraction",
@@ -758,7 +758,7 @@
             "open_issues": 2,
             "owner": "remarkjs",
             "repo": "awesome-remark",
-            "stars": 498,
+            "stars": 499,
             "topics": [
               "awesome",
               "awesome-list",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T16:06:24.645Z",
+    "last_updated": "2026-09-28T19:01:37.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",
