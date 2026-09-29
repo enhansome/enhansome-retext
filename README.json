@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-29T11:25:24Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "unifiedjs",
             "repo": "unified",
             "stars": 5037,
@@ -538,7 +538,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5103,
+            "stars": 5102,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -635,7 +635,7 @@
             "open_issues": 11,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15706,
+            "stars": 15708,
             "topics": [
               "best-practices",
               "documentation",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T19:01:37.708Z",
+    "last_updated": "2026-09-29T17:21:43.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",
