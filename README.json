@@ -462,7 +462,7 @@
         {
           "node_type": "item",
           "title": "Find more plugins »",
-          "description": null,
+          "description": "retextjs/retext",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -635,7 +635,7 @@
             "open_issues": 9,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15714,
+            "stars": 15715,
             "topics": [
               "best-practices",
               "documentation",
@@ -745,7 +745,7 @@
         {
           "node_type": "item",
           "title": "awesome remark",
-          "description": null,
+          "description": "remarkjs/awesome-remark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -771,7 +771,7 @@
         {
           "node_type": "item",
           "title": "awesome mdx",
-          "description": null,
+          "description": "mdx-js/awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -800,7 +800,7 @@
         {
           "node_type": "item",
           "title": "awesome rehype",
-          "description": null,
+          "description": "rehypejs/awesome-rehype",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -826,7 +826,7 @@
         {
           "node_type": "item",
           "title": "awesome unified",
-          "description": null,
+          "description": "unifiedjs/awesome-unified",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -851,7 +851,7 @@
         {
           "node_type": "item",
           "title": "awesome syntax-tree",
-          "description": null,
+          "description": "syntax-tree/awesome-syntax-tree",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:07:42.807Z",
+    "last_updated": "2026-10-03T05:08:07.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",
