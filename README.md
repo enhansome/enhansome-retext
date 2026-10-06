@@ -21,7 +21,7 @@ part of the [unified][] collective.
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,036 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,037 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
 * [retext](https://github.com/retextjs/retext) ⭐ 2,435 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Repository.
 * [retext-english](https://github.com/retextjs/retext/tree/HEAD/packages/retext-english) ⭐ 2,435 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - English parser.
 * [retext-latin](https://github.com/retextjs/retext/tree/HEAD/packages/retext-latin) ⭐ 2,435 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Generic Latin-script parser.
