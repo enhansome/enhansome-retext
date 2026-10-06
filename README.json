@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5037,
+            "stars": 5036,
             "topics": [
               "ast",
               "cst",
@@ -252,7 +252,7 @@
             "open_issues": 0,
             "owner": "retextjs",
             "repo": "retext-readability",
-            "stars": 102,
+            "stars": 103,
             "topics": [
               "automated-readability",
               "coleman-liau",
@@ -505,11 +505,11 @@
             "id": 36040894,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T13:56:55Z",
+            "last_commit": "2026-10-05T22:46:22Z",
             "open_issues": 453,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55943,
+            "stars": 55944,
             "topics": [
               "blog",
               "compiler",
@@ -538,7 +538,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5103,
+            "stars": 5104,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -564,7 +564,7 @@
             "open_issues": 0,
             "owner": "ChristopherBiscardi",
             "repo": "gatsby-mdx",
-            "stars": 712,
+            "stars": 711,
             "topics": []
           },
           "first_seen": "2026-08-28T21:36:36.268Z"
@@ -635,7 +635,7 @@
             "open_issues": 9,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15716,
+            "stars": 15720,
             "topics": [
               "best-practices",
               "documentation",
@@ -663,7 +663,7 @@
             "open_issues": 0,
             "owner": "firefox-devtools",
             "repo": "debugger",
-            "stars": 4607,
+            "stars": 4606,
             "topics": [
               "chrome",
               "debugger",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T16:13:16.924Z",
+    "last_updated": "2026-10-06T10:28:56.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",
