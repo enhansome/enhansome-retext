@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5038,
+            "stars": 5039,
             "topics": [
               "ast",
               "cst",
@@ -161,7 +161,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "nlcst",
-            "stars": 234,
+            "stars": 233,
             "topics": [
               "ast",
               "cst",
@@ -509,7 +509,7 @@
             "open_issues": 453,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55939,
+            "stars": 55938,
             "topics": [
               "blog",
               "compiler",
@@ -538,7 +538,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5104,
+            "stars": 5105,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -635,7 +635,7 @@
             "open_issues": 9,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15721,
+            "stars": 15722,
             "topics": [
               "best-practices",
               "documentation",
@@ -663,7 +663,7 @@
             "open_issues": 0,
             "owner": "firefox-devtools",
             "repo": "debugger",
-            "stars": 4606,
+            "stars": 4607,
             "topics": [
               "chrome",
               "debugger",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T18:13:44.808Z",
+    "last_updated": "2026-10-09T17:46:47.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",
