@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5038,
+            "stars": 5039,
             "topics": [
               "ast",
               "cst",
@@ -505,11 +505,11 @@
             "id": 36040894,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T22:46:22Z",
+            "last_commit": "2026-10-13T12:20:59Z",
             "open_issues": 453,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55936,
+            "stars": 55934,
             "topics": [
               "blog",
               "compiler",
@@ -538,7 +538,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5105,
+            "stars": 5104,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -663,7 +663,7 @@
             "open_issues": 0,
             "owner": "firefox-devtools",
             "repo": "debugger",
-            "stars": 4607,
+            "stars": 4608,
             "topics": [
               "chrome",
               "debugger",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T20:39:03.181Z",
+    "last_updated": "2026-10-13T18:41:58.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",
