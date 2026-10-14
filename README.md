@@ -2,7 +2,7 @@
 
 # awesome retext with stars
 
-[<img align="right" alt src="https://raw.githubusercontent.com/retextjs/retext/73b5852/logo-square.svg?sanitize=true" width="200">](https://github.com/retextjs/retext) ⭐ 2,434 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04
+[<img align="right" alt src="https://raw.githubusercontent.com/retextjs/retext/73b5852/logo-square.svg?sanitize=true" width="200">](https://github.com/retextjs/retext) ⭐ 2,435 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04
 
 > A curated list of awesome [**retext**][retext] resources.
 
@@ -21,11 +21,11 @@ part of the [unified][] collective.
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,039 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
-* [retext](https://github.com/retextjs/retext) ⭐ 2,434 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Repository.
-* [retext-english](https://github.com/retextjs/retext/tree/HEAD/packages/retext-english) ⭐ 2,434 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - English parser.
-* [retext-latin](https://github.com/retextjs/retext/tree/HEAD/packages/retext-latin) ⭐ 2,434 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Generic Latin-script parser.
-* [retext-stringify](https://github.com/retextjs/retext/tree/HEAD/packages/retext-stringify) ⭐ 2,434 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Prose generator.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,043 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
+* [retext](https://github.com/retextjs/retext) ⭐ 2,435 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Repository.
+* [retext-english](https://github.com/retextjs/retext/tree/HEAD/packages/retext-english) ⭐ 2,435 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - English parser.
+* [retext-latin](https://github.com/retextjs/retext/tree/HEAD/packages/retext-latin) ⭐ 2,435 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Generic Latin-script parser.
+* [retext-stringify](https://github.com/retextjs/retext/tree/HEAD/packages/retext-stringify) ⭐ 2,435 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Prose generator.
 * [nlcst](https://github.com/syntax-tree/nlcst) ⭐ 233 | 🐛 0 | 📅 2024-10-04 - Concrete syntax tree specification.
 
 ## Plugins
@@ -41,21 +41,21 @@ part of the [unified][] collective.
 * [retext-passive](https://github.com/retextjs/retext-passive) ⭐ 17 | 🐛 0 | 🌐 JavaScript | 📅 2023-09-08 - Check for passive voice.
 * [retext-repeated-words](https://github.com/retextjs/retext-repeated-words) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2023-09-10 - Check `for for` repeated words.
 
-[Find more plugins »](https://github.com/retextjs/retext/blob/HEAD/doc/plugins.md#list-of-plugins) ⭐ 2,434 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04
+[Find more plugins »](https://github.com/retextjs/retext/blob/HEAD/doc/plugins.md#list-of-plugins) ⭐ 2,435 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04
 
 ## Built on retext
 
-* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,934 | 🐛 453 | 🌐 JavaScript | 📅 2026-10-13 - Blazing fast, modern apps and websites with React.
-* [Alex](https://github.com/get-alex/alex) ⭐ 5,104 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - Catch insensitive, inconsiderate writing.
+* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,938 | 🐛 454 | 🌐 JavaScript | 📅 2026-10-13 - Blazing fast, modern apps and websites with React.
+* [Alex](https://github.com/get-alex/alex) ⭐ 5,105 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - Catch insensitive, inconsiderate writing.
 * [gatsby-mdx](https://github.com/ChristopherBiscardi/gatsby-mdx) ⚠️ Archived - Gatsby + MDX.
 * [retext-mapbox-standard](https://github.com/mapbox/retext-mapbox-standard) ⚠️ Archived - Enforce Mapbox rules about language.
 * [retext-shopify](https://github.com/Shopify/retext-shopify) ⭐ 23 | 🐛 4 | 🌐 JavaScript | 📅 2023-03-22 - Enforce Shopify rules about language.
 
 ## Built with retext
 
-* [opensource.guide](https://github.com/github/opensource.guide) ⭐ 15,725 | 🐛 10 | 🌐 HTML | 📅 2026-10-12 - Community guides for open source creators.
+* [opensource.guide](https://github.com/github/opensource.guide) ⭐ 15,728 | 🐛 10 | 🌐 HTML | 📅 2026-10-12 - Community guides for open source creators.
 * [debugger.html](https://github.com/devtools-html/debugger.html) ⚠️ Archived - [Mozilla](https://www.mozilla.org) Firefox debugger.
-* [write-music](https://github.com/wooorm/write-music) ⭐ 253 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-24 - Visualize sentence length.
+* [write-music](https://github.com/wooorm/write-music) ⭐ 254 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-24 - Visualize sentence length.
 * [readability](https://github.com/wooorm/readability) ⭐ 214 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-25 - Visualize readability.
 
 ## Related lists
@@ -92,4 +92,4 @@ part of the [unified][] collective.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
