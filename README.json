@@ -252,7 +252,7 @@
             "open_issues": 0,
             "owner": "retextjs",
             "repo": "retext-readability",
-            "stars": 103,
+            "stars": 104,
             "topics": [
               "automated-readability",
               "coleman-liau",
@@ -506,10 +506,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-15T21:35:25Z",
-            "open_issues": 456,
+            "open_issues": 457,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55938,
+            "stars": 55936,
             "topics": [
               "blog",
               "compiler",
@@ -635,7 +635,7 @@
             "open_issues": 9,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15741,
+            "stars": 15743,
             "topics": [
               "best-practices",
               "documentation",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T15:09:04.627Z",
+    "last_updated": "2026-10-19T18:01:54.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",

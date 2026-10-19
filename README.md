@@ -32,7 +32,7 @@ part of the [unified][] collective.
 
 * [retext-keywords](https://github.com/retextjs/retext-keywords) ⭐ 341 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-23 - Extract keywords and keyphrases.
 * [retext-equality](https://github.com/retextjs/retext-equality) ⭐ 163 | 🐛 2 | 🌐 JavaScript | 📅 2024-05-30 - Warn about possible insensitive, inconsiderate language.
-* [retext-readability](https://github.com/retextjs/retext-readability) ⭐ 103 | 🐛 0 | 🌐 JavaScript | 📅 2023-09-11 - Check readability.
+* [retext-readability](https://github.com/retextjs/retext-readability) ⭐ 104 | 🐛 0 | 🌐 JavaScript | 📅 2023-09-11 - Check readability.
 * [retext-simplify](https://github.com/retextjs/retext-simplify) ⭐ 98 | 🐛 0 | 🌐 JavaScript | 📅 2023-09-10 - Check phrases for simpler alternatives.
 * [retext-spell](https://github.com/retextjs/retext-spell) ⭐ 75 | 🐛 0 | 🌐 JavaScript | 📅 2024-02-05 - Check spelling.
 * [remark-retext](https://github.com/remarkjs/remark-retext) ⭐ 32 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-02 - Integrate with the [remark][] ecosystem.
@@ -45,7 +45,7 @@ part of the [unified][] collective.
 
 ## Built on retext
 
-* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,938 | 🐛 456 | 🌐 JavaScript | 📅 2026-10-15 - Blazing fast, modern apps and websites with React.
+* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,936 | 🐛 457 | 🌐 JavaScript | 📅 2026-10-15 - Blazing fast, modern apps and websites with React.
 * [Alex](https://github.com/get-alex/alex) ⭐ 5,105 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - Catch insensitive, inconsiderate writing.
 * [gatsby-mdx](https://github.com/ChristopherBiscardi/gatsby-mdx) ⚠️ Archived - Gatsby + MDX.
 * [retext-mapbox-standard](https://github.com/mapbox/retext-mapbox-standard) ⚠️ Archived - Enforce Mapbox rules about language.
@@ -53,7 +53,7 @@ part of the [unified][] collective.
 
 ## Built with retext
 
-* [opensource.guide](https://github.com/github/opensource.guide) ⭐ 15,741 | 🐛 9 | 🌐 HTML | 📅 2026-10-12 - Community guides for open source creators.
+* [opensource.guide](https://github.com/github/opensource.guide) ⭐ 15,743 | 🐛 9 | 🌐 HTML | 📅 2026-10-12 - Community guides for open source creators.
 * [debugger.html](https://github.com/devtools-html/debugger.html) ⚠️ Archived - [Mozilla](https://www.mozilla.org) Firefox debugger.
 * [write-music](https://github.com/wooorm/write-music) ⭐ 254 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-24 - Visualize sentence length.
 * [readability](https://github.com/wooorm/readability) ⭐ 214 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-25 - Visualize readability.
@@ -92,4 +92,4 @@ part of the [unified][] collective.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
