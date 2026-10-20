@@ -505,11 +505,11 @@
             "id": 36040894,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T21:35:25Z",
+            "last_commit": "2026-10-20T11:36:56Z",
             "open_issues": 457,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55936,
+            "stars": 55937,
             "topics": [
               "blog",
               "compiler",
@@ -564,7 +564,7 @@
             "open_issues": 0,
             "owner": "ChristopherBiscardi",
             "repo": "gatsby-mdx",
-            "stars": 710,
+            "stars": 707,
             "topics": []
           },
           "first_seen": "2026-08-28T21:36:36.268Z"
@@ -631,11 +631,11 @@
             "id": 61204818,
             "language": "HTML",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-12T13:28:01Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-20T04:12:18Z",
+            "open_issues": 10,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15743,
+            "stars": 15746,
             "topics": [
               "best-practices",
               "documentation",
@@ -663,7 +663,7 @@
             "open_issues": 0,
             "owner": "firefox-devtools",
             "repo": "debugger",
-            "stars": 4609,
+            "stars": 4610,
             "topics": [
               "chrome",
               "debugger",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T18:01:54.188Z",
+    "last_updated": "2026-10-20T16:05:45.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",
