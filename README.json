@@ -509,7 +509,7 @@
             "open_issues": 458,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55935,
+            "stars": 55931,
             "topics": [
               "blog",
               "compiler",
@@ -635,7 +635,7 @@
             "open_issues": 10,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15752,
+            "stars": 15753,
             "topics": [
               "best-practices",
               "documentation",
@@ -663,7 +663,7 @@
             "open_issues": 0,
             "owner": "firefox-devtools",
             "repo": "debugger",
-            "stars": 4610,
+            "stars": 4611,
             "topics": [
               "chrome",
               "debugger",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T16:11:09.405Z",
+    "last_updated": "2026-10-24T15:07:11.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",
