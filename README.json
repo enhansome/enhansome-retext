@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5044,
+            "stars": 5045,
             "topics": [
               "ast",
               "cst",
@@ -509,7 +509,7 @@
             "open_issues": 458,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55930,
+            "stars": 55929,
             "topics": [
               "blog",
               "compiler",
@@ -632,10 +632,10 @@
             "language": "HTML",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-20T04:12:18Z",
-            "open_issues": 8,
+            "open_issues": 7,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15760,
+            "stars": 15765,
             "topics": [
               "best-practices",
               "documentation",
@@ -758,7 +758,7 @@
             "open_issues": 2,
             "owner": "remarkjs",
             "repo": "awesome-remark",
-            "stars": 498,
+            "stars": 499,
             "topics": [
               "awesome",
               "awesome-list",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T15:19:34.161Z",
+    "last_updated": "2026-10-26T17:59:55.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",
