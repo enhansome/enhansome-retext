@@ -21,7 +21,7 @@ part of the [unified][] collective.
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,047 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,049 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
 * [retext](https://github.com/retextjs/retext) ⭐ 2,432 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Repository.
 * [retext-english](https://github.com/retextjs/retext/tree/HEAD/packages/retext-english) ⭐ 2,432 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - English parser.
 * [retext-latin](https://github.com/retextjs/retext/tree/HEAD/packages/retext-latin) ⭐ 2,432 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Generic Latin-script parser.
@@ -45,7 +45,7 @@ part of the [unified][] collective.
 
 ## Built on retext
 
-* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,923 | 🐛 458 | 🌐 JavaScript | 📅 2026-10-20 - Blazing fast, modern apps and websites with React.
+* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,921 | 🐛 459 | 🌐 JavaScript | 📅 2026-10-20 - Blazing fast, modern apps and websites with React.
 * [Alex](https://github.com/get-alex/alex) ⭐ 5,105 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - Catch insensitive, inconsiderate writing.
 * [gatsby-mdx](https://github.com/ChristopherBiscardi/gatsby-mdx) ⚠️ Archived - Gatsby + MDX.
 * [retext-mapbox-standard](https://github.com/mapbox/retext-mapbox-standard) ⚠️ Archived - Enforce Mapbox rules about language.
@@ -92,4 +92,4 @@ part of the [unified][] collective.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
