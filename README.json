@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5049,
+            "stars": 5048,
             "topics": [
               "ast",
               "cst",
@@ -49,7 +49,7 @@
             "open_issues": 0,
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2432,
+            "stars": 2433,
             "topics": [
               "ast",
               "cst",
@@ -77,7 +77,7 @@
             "open_issues": 0,
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2432,
+            "stars": 2433,
             "topics": [
               "ast",
               "cst",
@@ -105,7 +105,7 @@
             "open_issues": 0,
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2432,
+            "stars": 2433,
             "topics": [
               "ast",
               "cst",
@@ -133,7 +133,7 @@
             "open_issues": 0,
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2432,
+            "stars": 2433,
             "topics": [
               "ast",
               "cst",
@@ -475,7 +475,7 @@
             "open_issues": 0,
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2432,
+            "stars": 2433,
             "topics": [
               "ast",
               "cst",
@@ -509,7 +509,7 @@
             "open_issues": 459,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55921,
+            "stars": 55920,
             "topics": [
               "blog",
               "compiler",
@@ -632,10 +632,10 @@
             "language": "HTML",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-20T04:12:18Z",
-            "open_issues": 7,
+            "open_issues": 5,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15771,
+            "stars": 15774,
             "topics": [
               "best-practices",
               "documentation",
@@ -725,7 +725,7 @@
             "open_issues": 0,
             "owner": "wooorm",
             "repo": "readability",
-            "stars": 214,
+            "stars": 215,
             "topics": [
               "demo",
               "readability",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T17:49:36.642Z",
+    "last_updated": "2026-10-30T17:31:27.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",
