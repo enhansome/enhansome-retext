@@ -506,10 +506,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-20T11:36:56Z",
-            "open_issues": 460,
+            "open_issues": 461,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55920,
+            "stars": 55919,
             "topics": [
               "blog",
               "compiler",
@@ -631,11 +631,11 @@
             "id": 61204818,
             "language": "HTML",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-20T04:12:18Z",
+            "last_commit": "2026-11-05T04:12:53Z",
             "open_issues": 5,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15782,
+            "stars": 15785,
             "topics": [
               "best-practices",
               "documentation",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T19:09:31.481Z",
+    "last_updated": "2026-11-05T19:16:33.794Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",
