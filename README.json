@@ -509,7 +509,7 @@
             "open_issues": 461,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55916,
+            "stars": 55918,
             "topics": [
               "blog",
               "compiler",
@@ -635,7 +635,7 @@
             "open_issues": 6,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15792,
+            "stars": 15793,
             "topics": [
               "best-practices",
               "documentation",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T21:47:11.918Z",
+    "last_updated": "2026-11-10T19:06:59.463Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",
