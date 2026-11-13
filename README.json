@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5052,
+            "stars": 5053,
             "topics": [
               "ast",
               "cst",
@@ -49,7 +49,7 @@
             "open_issues": 0,
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2432,
+            "stars": 2433,
             "topics": [
               "ast",
               "cst",
@@ -77,7 +77,7 @@
             "open_issues": 0,
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2432,
+            "stars": 2433,
             "topics": [
               "ast",
               "cst",
@@ -105,7 +105,7 @@
             "open_issues": 0,
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2432,
+            "stars": 2433,
             "topics": [
               "ast",
               "cst",
@@ -133,7 +133,7 @@
             "open_issues": 0,
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2432,
+            "stars": 2433,
             "topics": [
               "ast",
               "cst",
@@ -475,7 +475,7 @@
             "open_issues": 0,
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2432,
+            "stars": 2433,
             "topics": [
               "ast",
               "cst",
@@ -509,7 +509,7 @@
             "open_issues": 461,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55915,
+            "stars": 55914,
             "topics": [
               "blog",
               "compiler",
@@ -538,7 +538,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5106,
+            "stars": 5105,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -631,11 +631,11 @@
             "id": 61204818,
             "language": "HTML",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-11T04:26:40Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-13T17:32:27Z",
+            "open_issues": 10,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15800,
+            "stars": 15801,
             "topics": [
               "best-practices",
               "documentation",
@@ -663,7 +663,7 @@
             "open_issues": 0,
             "owner": "firefox-devtools",
             "repo": "debugger",
-            "stars": 4607,
+            "stars": 4608,
             "topics": [
               "chrome",
               "debugger",
@@ -758,7 +758,7 @@
             "open_issues": 2,
             "owner": "remarkjs",
             "repo": "awesome-remark",
-            "stars": 499,
+            "stars": 500,
             "topics": [
               "awesome",
               "awesome-list",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T19:22:05.362Z",
+    "last_updated": "2026-11-13T18:59:41.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",
