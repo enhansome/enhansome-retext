@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5054,
+            "stars": 5056,
             "topics": [
               "ast",
               "cst",
@@ -538,7 +538,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5109,
+            "stars": 5110,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -725,7 +725,7 @@
             "open_issues": 0,
             "owner": "wooorm",
             "repo": "readability",
-            "stars": 215,
+            "stars": 216,
             "topics": [
               "demo",
               "readability",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T18:30:10.201Z",
+    "last_updated": "2026-11-22T18:52:27.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",

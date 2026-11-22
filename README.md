@@ -21,7 +21,7 @@ part of the [unified][] collective.
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,054 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,056 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
 * [retext](https://github.com/retextjs/retext) ⭐ 2,433 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Repository.
 * [retext-english](https://github.com/retextjs/retext/tree/HEAD/packages/retext-english) ⭐ 2,433 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - English parser.
 * [retext-latin](https://github.com/retextjs/retext/tree/HEAD/packages/retext-latin) ⭐ 2,433 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Generic Latin-script parser.
@@ -46,7 +46,7 @@ part of the [unified][] collective.
 ## Built on retext
 
 * [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,914 | 🐛 462 | 🌐 JavaScript | 📅 2026-11-20 - Blazing fast, modern apps and websites with React.
-* [Alex](https://github.com/get-alex/alex) ⭐ 5,109 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - Catch insensitive, inconsiderate writing.
+* [Alex](https://github.com/get-alex/alex) ⭐ 5,110 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27 - Catch insensitive, inconsiderate writing.
 * [gatsby-mdx](https://github.com/ChristopherBiscardi/gatsby-mdx) ⚠️ Archived - Gatsby + MDX.
 * [retext-mapbox-standard](https://github.com/mapbox/retext-mapbox-standard) ⚠️ Archived - Enforce Mapbox rules about language.
 * [retext-shopify](https://github.com/Shopify/retext-shopify) ⭐ 23 | 🐛 4 | 🌐 JavaScript | 📅 2023-03-22 - Enforce Shopify rules about language.
@@ -56,7 +56,7 @@ part of the [unified][] collective.
 * [opensource.guide](https://github.com/github/opensource.guide) ⭐ 15,813 | 🐛 11 | 🌐 HTML | 📅 2026-11-16 - Community guides for open source creators.
 * [debugger.html](https://github.com/devtools-html/debugger.html) ⚠️ Archived - [Mozilla](https://www.mozilla.org) Firefox debugger.
 * [write-music](https://github.com/wooorm/write-music) ⭐ 254 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-24 - Visualize sentence length.
-* [readability](https://github.com/wooorm/readability) ⭐ 215 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-25 - Visualize readability.
+* [readability](https://github.com/wooorm/readability) ⭐ 216 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-25 - Visualize readability.
 
 ## Related lists
 
@@ -92,4 +92,4 @@ part of the [unified][] collective.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
