@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5055,
+            "stars": 5054,
             "topics": [
               "ast",
               "cst",
@@ -635,7 +635,7 @@
             "open_issues": 11,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15815,
+            "stars": 15816,
             "topics": [
               "best-practices",
               "documentation",
@@ -663,7 +663,7 @@
             "open_issues": 0,
             "owner": "firefox-devtools",
             "repo": "debugger",
-            "stars": 4608,
+            "stars": 4607,
             "topics": [
               "chrome",
               "debugger",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T23:07:56.865Z",
+    "last_updated": "2026-11-24T21:46:18.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome retext resources",
